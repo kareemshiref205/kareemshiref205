@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVtMjN0d2ZiaDFmdXlpbGoxcmtyeGY3YWJ2MzY1NW85eHYwMW9iaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kJ1iL1ZQIyibu/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
