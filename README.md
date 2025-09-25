@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Cybersecurity & Penetration Testing Enthusiast | Red Team & Bug Bounty Learner</h3>
+<h3 align="left">Penetration Testing Enthusiast | Red Team & Bug Bounty Learner</h3>
 
 ###
 
